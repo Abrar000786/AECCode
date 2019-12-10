@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CameraManager (4.4.0)
+  - IQKeyboardManagerSwift (6.5.4)
+  - Koloda (5.0):
+    - pop (~> 1.0)
+  - LinearProgressView (2.0.1)
+  - pop (1.0.12)
+  - ReachabilitySwift (5.0.0)
+  - SwiftyGif (5.2.0)
+  - SwiftyJSON (5.0.0)
+  - Toaster (2.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - CameraManager (~> 4.4)
+  - IQKeyboardManagerSwift
+  - Koloda
+  - LinearProgressView
+  - ReachabilitySwift
+  - SwiftyGif
+  - SwiftyJSON
+  - Toaster
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CameraManager
+    - IQKeyboardManagerSwift
+    - Koloda
+    - LinearProgressView
+    - pop
+    - ReachabilitySwift
+    - SwiftyGif
+    - SwiftyJSON
+    - Toaster
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CameraManager: 583710502c42178d12ef046d9d4f7893feff8354
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  Koloda: 75302d21882cc3e274c1561b1155805ea5919dab
+  LinearProgressView: 353d4d45dc599b83cc4b43f14e6c0336aa6f3834
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SwiftyGif: b85c6b33a9411859d9e1db998b6a8214aea942df
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toaster: c1a81b376edcc2470157b4d1ee1e9341d3b96455
+
+PODFILE CHECKSUM: e7a4f865241fdfd939dfd4a50ecbc9eedeee9dae
+
+COCOAPODS: 1.8.4
